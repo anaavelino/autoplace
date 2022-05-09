@@ -11,7 +11,7 @@ git clone https://github.com/anaavelino/autoplace.git
 
 ### Backend
 #### cd server
-#### npm install
+#### `npm install`
 #### cd src/database/
 #### json-server --watch mock.json --port 3004
 
