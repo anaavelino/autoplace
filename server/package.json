@@ -1,0 +1,26 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "servidor restful com banco de dados utilizando json-server",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "server": "json-server --watch src/database/mock.json --port 5432",
+    "dev": "nodemon src/app.js"
+  },
+  "author": "Ana Maria",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "body-parser": "^1.19.0",
+    "consign": "^0.1.6",
+    "cors": "^2.8.5",
+    "dotenv": "^14.3.2",
+    "dotenv-safe": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15",
+    "json-server": "^0.17.0"
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "veiculos": [
+    {
+      "marca": 1,
+      "veiculo": "PMK-5985",
+      "descricao": "veículo com pneu furado",
+      "ano": "2019",
+      "vendido": false,
+      "create": "",
+      "update": "2022-05-09T01:55:51.669Z",
+      "id": 5
+    },
+    
+    {
+      "marca_id": 2,
+      "veiculo": "WED-8965",
+      "descricao": "veiculo sem estepe, cliente aceitou pagar  custo",
+      "ano": "2006",
+      "vendido": "true",
+      "created": "2022-05-09T18:27:09.608Z",
+      "marca": "Fiat",
+      "updated": "",
+      "id": 36
+    },
+    {
+      "marca_id": 2,
+      "veiculo": "UTR-8484",
+      "descricao": "veículo pronto para venda",
+      "ano": "2011",
+      "vendido": "false",
+      "created": "2022-05-09T18:36:05.082Z",
+      "updated": "2022-05-09T19:54:24.020Z",
+      "marca": "Fiat",
+      "id": 37
+    },
+    {
+      "marca_id": 1,
+      "veiculo": "TEW-9589",
+      "descricao": "testes",
+      "ano": "2022",
+      "vendido": "true",
+      "created": "2022-05-09T20:07:51.636Z",
+      "marca": "Volkswagen",
+      "updated": "",
+      "id": 38
+    },
+    {
+      "marca_id": 1,
+      "veiculo": "WSXC-8888",
+      "descricao": "veiculo em otimo estado de uso",
+      "ano": "2016",
+      "vendido": "true",
+      "created": "2022-05-09T21:52:04.015Z",
+      "marca": "Volkswagen",
+      "updated": "",
+      "id": 39
+    },
+    {
+      "marca_id": 1,
+      "veiculo": "WSXC-8888",
+      "descricao": "veiculo em otimo estado de uso",
+      "ano": "2016",
+      "vendido": "true",
+      "created": "2022-05-09T21:52:04.015Z",
+      "marca": "Volkswagen",
+      "updated": "",
+      "id": 40
+    },
+    {
+      "marca_id": 1,
+      "veiculo": "WSXC-8888",
+      "descricao": "veiculo em otimo estado de uso",
+      "ano": "2016",
+      "vendido": "true",
+      "created": "2022-05-09T21:52:04.015Z",
+      "marca": "Volkswagen",
+      "updated": "",
+      "id": 41
+    },
+    {
+      "marca_id": 1,
+      "veiculo": "WSXC-8888",
+      "descricao": "veiculo em otimo estado de uso",
+      "ano": "2016",
+      "vendido": "true",
+      "created": "2022-05-09T21:52:04.015Z",
+      "marca": "Volkswagen",
+      "updated": "",
+      "id": 42
+    },
+    {
+      "marca_id": 1,
+      "veiculo": "WSXC-8888",
+      "descricao": "veiculo em otimo estado de uso",
+      "ano": "2016",
+      "vendido": "true",
+      "created": "2022-05-09T21:52:04.015Z",
+      "marca": "Volkswagen",
+      "updated": "",
+      "id": 44
+    },
+    {
+      "marca_id": 1,
+      "veiculo": "WSXC-8888",
+      "descricao": "veiculo em otimo estado de uso",
+      "ano": "2016",
+      "vendido": "true",
+      "created": "2022-05-09T21:52:04.015Z",
+      "marca": "Volkswagen",
+      "updated": "",
+      "id": 45
+    },
+    {
+      "marca_id": 1,
+      "veiculo": "EDC-9987",
+      "descricao": "aguardando avaliação tecnica",
+      "ano": "2006",
+      "vendido": "false",
+      "created": "2022-05-09T21:55:44.877Z",
+      "marca": "Volkswagen",
+      "updated": "",
+      "id": 46
+    },
+    {
+      "marca_id": 1,
+      "veiculo": "EER-8963",
+      "descricao": "aguardando retirada do cliente",
+      "ano": "2005",
+      "vendido": "true",
+      "created": "2022-05-09T21:55:44.877Z",
+      "marca": "Volkswagen",
+      "updated": "",
+      "id": 47
+    },
+    {
+      "marca_id": 2,
+      "veiculo": "TEW-9589",
+      "descricao": "veiculo cor prata",
+      "ano": "2011",
+      "vendido": "false",
+      "created": "2022-05-09T22:52:55.490Z",
+      "marca": "Fiat",
+      "updated": "",
+      "id": 48
+    }
+  ],
+  "marcas": [
+    {
+      "id": 1,
+      "description": "Volkswagen"
+    },
+    {
+      "id": 2,
+      "description": "Fiat"
+    }
+  ]
+}

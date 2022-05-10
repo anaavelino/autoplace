@@ -1,0 +1,63 @@
+{
+  "env": {
+    "browser": true,
+    "es2021": true
+  },
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "paths": ["src"]
+      }
+    }
+  },
+  "extends": ["plugin:react/recommended", "airbnb", "prettier"],
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+
+    "ecmaVersion": "latest",
+    "sourceType": "module"
+  },
+  "plugins": ["react", "prettier"],
+  "rules": {
+    "prettier/prettier": "off",
+    "no-use-before-define": ["error"],
+    "no-unused-expressions": "warn",
+    "react/jsx-filename-extension": "off",
+    "react/prop-types": "off",
+    "arrow-parens": "warn",
+    "no-nested-ternary": "error",
+    "import/no-unresolved": "off",
+    "import/no-duplicates": "error",
+    "consistent-return": "warn",
+    "default-case": "error",
+    "react/jsx-props-no-spreading": "error",
+    "react/jsx-one-expression-per-line": "warn",
+    "import/prefer-default-export": "warn",
+    "no-restricted-globals": "off",
+    "react/jsx-wrap-multilines": "warn",
+    "react/jsx-no-bind": "off",
+    "jsx-a11y/no-noninteractive-element-interactions": "warn",
+    "import/no-extraneous-dependencies": "off",
+    "prefer-const": "off",
+    "jsx-a11y/click-events-have-key-events": "off",
+    "jsx-a11y/anchor-is-valid": "warn",
+    "jsx-a11y/no-static-element-interactions": "warn",
+    "react/react-in-jsx-scope": "off",
+    "no-underscore-dangle": "warn",
+    "eqeqeq": "warn",
+    "react/button-has-type": "off",
+    "camelcase": "off",
+    "arrow-body-style": "off",
+    "prefer-arrow-callback": "off",
+    "import/no-cycle": "off",
+    "spaced-comment": "off",
+    "no-plusplus": ["error", { "allowForLoopAfterthoughts": true }],
+    "no-shadow": [
+      "error",
+      { "allow": ["config", "item", "index", "res", "err"] }
+    ],
+    "no-unused-vars": ["warn", { "args": "none" }]
+  }
+}

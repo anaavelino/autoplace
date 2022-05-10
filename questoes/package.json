@@ -1,0 +1,14 @@
+{
+  "name": "questoes",
+  "version": "1.0.0",
+  "description": "questoes para teste de selecao",
+  "main": "index.js",
+  "scripts": {
+    "eleitores": "node eleitores.js",
+    "bubblesort": "node bubblesort.js",
+    "fatorial": "node fatorial.js",
+    "multiplos": "node multiplos.js"
+  },
+  "author": "Ana Maria",
+  "license": "ISC"
+}
