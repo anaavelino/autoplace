@@ -21,8 +21,6 @@
 #### `npm install`
 #### `npm start`
 
-#### `cd ..`
-
 ### Backend
 #### `Atenção: Para que API funcione é necessario a abertura de dois terminais, sendo um para iniciar a API e outro para iniciar o json server`
 
