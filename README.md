@@ -1,7 +1,7 @@
 # Para iniciar o projeto siga o passo a passo abaixo
 
 
-#### `git clone https://github.com/anaavelino/autoplace.git`
+#### `git clone https://github.com/anaavelino/autoplace.git`  
 
 #### `cd autoplace/`
 
