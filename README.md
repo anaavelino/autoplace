@@ -5,15 +5,6 @@
 
 #### `cd autoplace/`
 
-
-### Questões
-#### `cd questoes`
-
-#### 1º `npm run eleitores`
-#### 2º `npm run bubblesort`
-#### 3º `npm run fatorial`
-#### 4º `npm run multiplos`
-
 ### cd ..
 
 ### Frontend
