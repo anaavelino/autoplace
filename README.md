@@ -5,8 +5,6 @@
 
 #### `cd autoplace/`
 
-### cd ..
-
 ### Frontend
 #### `cd client`
 #### `npm install`
